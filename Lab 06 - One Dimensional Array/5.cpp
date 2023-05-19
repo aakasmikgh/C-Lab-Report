@@ -1,3 +1,4 @@
+// Write a program in C to replaces the spaces in stringwith *.
 #include <stdio.h>  
 #include <string.h>  
    
