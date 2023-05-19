@@ -1,4 +1,5 @@
-//Lab 09-03
+/* Write a C program to read name, roll_number and percentage of students until users says no using structure and store them in a binary file. If the file already contains
+the data, your program should add new data at the end of the file. Display details of nth student.
 #include<stdio.h>
 #include <stdlib.h>
 #include <string.h>
