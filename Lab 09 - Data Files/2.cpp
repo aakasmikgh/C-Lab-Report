@@ -1,4 +1,5 @@
-//Lab 09-2
+/* Write a C program to read name and roll number of 48 students from user using structure and store them in a binary file. If the file already contains the data, your 
+program should add new data at the end of a file. Display name and roll numbers of students whose name starts with 'a'. */
 #include<stdio.h>
 #include <stdlib.h>
 #include <string.h>
