@@ -1,3 +1,5 @@
+/* Write a program to make screen saver that dispaly different sized circles filled with different colors at random places. [Hint: use kbhit() function to detect key press and
+setfillstyle() & floodfill() functions to fill color in circles]
 #include <stdio.h>
 #include <graphics.h>
 #include <conio.h>
