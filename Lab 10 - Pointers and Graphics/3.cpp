@@ -1,3 +1,4 @@
+// Write a C program to find the largest element in an array using Dynamic Memory Allocation.
 #include <stdio.h>
 #include <stdlib.h>
 int main()
