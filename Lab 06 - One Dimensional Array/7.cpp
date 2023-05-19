@@ -1,3 +1,4 @@
+// Write a program in C to calculate whether a given string is palindrome or not.
 #include <stdio.h>
 #include <string.h>
  
