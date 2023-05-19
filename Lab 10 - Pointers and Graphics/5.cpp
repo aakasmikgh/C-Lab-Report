@@ -1,3 +1,4 @@
+// Write a program to read end points of two parallel lines and draw them in two different color.
 #include <stdio.h>
 #include <graphics.h>
 #include <conio.h>
