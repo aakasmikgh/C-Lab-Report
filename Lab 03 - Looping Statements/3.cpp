@@ -1,3 +1,5 @@
+/*Enter an integer, calculate the number of digits which are 1 in that number and determine the product of digits which are divisible by 2. (Example = 21143, then number of
+1 is 2 and product of digits is 2 x 4 = 8 ) */
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
