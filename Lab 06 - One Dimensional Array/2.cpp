@@ -1,3 +1,4 @@
+// Write a program in C to read n number of vakues in an array and display it in reverse order.
 #include<stdio.h>  
   
 int main()  
