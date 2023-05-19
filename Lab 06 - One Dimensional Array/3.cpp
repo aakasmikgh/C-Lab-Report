@@ -1,3 +1,4 @@
+// Write a program in C to find second smallest element in an array.
 #include <stdio.h>
 #include <string.h>
  
