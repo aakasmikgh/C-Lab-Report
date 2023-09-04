@@ -24,7 +24,7 @@ int main()
 			c=c+1;
 		}
 	}
-	if(c>=2*t/3)
+	if(c>=t/2)
 	printf("Sparse matrix");
 	else
 	printf("Not a sparse matrix");
